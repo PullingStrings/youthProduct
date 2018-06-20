@@ -1,2 +1,0 @@
-# youthProduct
-GitHub Pages
